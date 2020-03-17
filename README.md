@@ -1,7 +1,7 @@
 # webshellcat
 
 - collect samples
-    - [1](https://github.com/tennc/webshell)
+    - [webshell样本集01](https://github.com/tennc/webshell)
 - ssdeep相似度算法
 
 - yara rules
@@ -9,7 +9,7 @@
 - nessus run 
 
 - remote access 
-
+    - 远程访问可疑url
 - detect 
     - 开源项目研究
         - [长亭-牧云](https://github.com/chaitin/cloudwalker)[在线版本](https://webshellchop.chaitin.cn/)
