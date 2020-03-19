@@ -2,6 +2,7 @@
 
 - collect samples
     - [webshell样本集01](https://github.com/tennc/webshell)
+    - [webshell样本集02](https://github.com/xl7dev/WebShell)
 - ssdeep相似度算法
     - [paper01](https://www.trustwave.com/2014/11/modsecurity-advanced-topic-of-the-week-detecting-malware-with-fuzzy-hashing.html)
 - yara rules
@@ -15,6 +16,7 @@
         - [长亭-牧云](https://github.com/chaitin/cloudwalker)[在线版本](https://webshellchop.chaitin.cn/)
         - [phpmalwarefinder](https://github.com/nbs-system/php-malware-finder.git) [介绍](一款好用的php webshell检测工具)
         - [WebShellDetector V1.51](https://www.freebuf.com/sectool/3939.html)
+        - [findwebshell](https://github.com/he1m4n6a/findWebshell)
     - 在线api查杀
         - virustotal
         - [webshell专杀等](http://www.shelldetector.com/)
