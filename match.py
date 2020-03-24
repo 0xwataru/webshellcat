@@ -45,7 +45,7 @@ def scan(rule, path):
         if len(matches)>0:
             print(filepath,matches)
 if __name__ == '__main__':
-    rulepath = "/Users/zzh/github/allwebshell/rules/webshells"
+    rulepath = "./rules/webshells"
     #yara规则目录 
     # malpath ="/Users/zzh/github/allwebshell/WebShell2" # 木马存在目录 
     malpath = './samples'

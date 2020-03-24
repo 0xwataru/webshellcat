@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="0d50bdb0-32fe-4701-997d-28d6e7c6ace1" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/decodewebshell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/WebShell2" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/samples/damamingwen.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/samples/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -55,11 +58,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/decodewebshell.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
               <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -112,6 +124,7 @@
         <option value="$PROJECT_DIR$/match.py" />
         <option value="$PROJECT_DIR$/samples/damamingwen.txt" />
         <option value="$PROJECT_DIR$/decodewebshell.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -133,11 +146,6 @@
             <path>
               <item name="webshellcat" type="b2602c69:ProjectViewProjectNode" />
               <item name="webshellcat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webshellcat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webshellcat" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,12 +247,12 @@
       <workItem from="1584518892674" duration="3311000" />
       <workItem from="1584658951066" duration="5794000" />
       <workItem from="1584693670346" duration="2149000" />
-      <workItem from="1585030121313" duration="5429000" />
+      <workItem from="1585030121313" duration="5497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21244000" />
+    <option name="totallyTimeSpent" value="21312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="86" y="49" width="1405" height="877" extended-state="0" />
@@ -255,7 +263,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25065616" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25065616" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -264,7 +272,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30971128" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30971128" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32939634" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -354,6 +362,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
